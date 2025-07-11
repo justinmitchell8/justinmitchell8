@@ -1,9 +1,8 @@
-## Hi there 👋
+## Konnichiwa 👋
 
 <!--
 **justinmitchell8/justinmitchell8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my MD in high energy particle physics at Southern University A&M College
 - 🌱 I’m currently learning AI agent automation, how to code c++, simulate particle interactions in detectors to increase efficiency, japanese, new methods of multimessenger astronomy detection
